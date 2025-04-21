@@ -5,6 +5,6 @@
   },
   {
     "name": "Menuka Plugin",
-    "entry": "./plugins/menuka-plugin/plugin.js"
+    "entry": "./plugins/menuka-plugin/plugin.js" 
   }
 ]
