@@ -4,7 +4,7 @@
     "entry": "./plugins/sample-plugin/plugin.js"
   },
   {
-    "name": "Menuka Plugin",
+    "name": "Nimal Plugin",
     "entry": "./plugins/menuka-plugin/plugin.js" 
   }
 ]
